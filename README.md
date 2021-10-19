@@ -6,15 +6,13 @@
 
 ## Summary of Problem Domain
 
-  Application created with the purpose of testing middlware and routes as well as practicing CI/CD of a web application.
+  Application created with the purpose of testing middlware and routes as well as practicing the CI/CD of a web application.
 
 ## Links to application deployment
 
-  Deployment branch deployed [here]()
+  App deployed on Heroku [here](https://basic-express-server-lab02.herokuapp.com/)
 
-  Production branch deployed [here]()
-
-  Pull req from dev found [here]()
+  Pull req from dev found [here](https://github.com/Beers15/basic-express-server/pull/1)
 
 ## Uml Diagram
 
