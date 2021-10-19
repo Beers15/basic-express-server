@@ -6,7 +6,7 @@
 
 ## Summary of Problem Domain
 
-  Application created with the purpose of testing middlware and routes as well as practicing continuous integration and continuous delivery of a web application.
+  Application created with the purpose of testing middlware and routes as well as practicing CI/CD of a web application.
 
 ## Links to application deployment
 
